@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "690230202904",
+    "project_id": "chatapp-350bd",
+    "storage_bucket": "chatapp-350bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690230202904:android:af1ee7b1209804ad91e96d",
+        "android_client_info": {
+          "package_name": "com.burakernt.chatnavigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690230202904-n6c0qhfl8a868dnfc19d7o3lq5p97lds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnkR9NvKmF3WEPc1ie4pYdkH_QmkdxK44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690230202904-n6c0qhfl8a868dnfc19d7o3lq5p97lds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
